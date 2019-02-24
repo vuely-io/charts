@@ -26,18 +26,18 @@ image:
 ## User of the application
 ## ref: https://github.com/bitnami/bitnami-docker-odoo#configuration
 ##
-odooUsername: user@example.com
+odooUsername: user@kubly.io
 
 ## Admin email
 ## ref: https://github.com/bitnami/bitnami-docker-odoo#configuration
 ##
-odooEmail: user@example.com
+odooEmail: user@kubly.io
 
 ## Application password
 ## Defaults to a random 10-character alphanumeric string if not set
 ## ref: https://github.com/bitnami/bitnami-docker-odoo#configuration
 ##
-# odooPassword:
+odooPassword:
 
 ## SMTP mail delivery configuration
 ## ref: https://github.com/bitnami/bitnami-docker-odoo/#smtp-configuration
